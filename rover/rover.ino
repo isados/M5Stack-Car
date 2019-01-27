@@ -6,7 +6,7 @@
 WiFiClient client;
 WiFiServer server(80);
 
-/* WIFI settings */
+/* Change the WIFI settings right here*/
 const char* ssid = "SSID";
 const char* password = "PASSWORD";
 
